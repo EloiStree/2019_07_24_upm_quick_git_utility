@@ -15,7 +15,8 @@ namespace Eloi.Git
             info = new UnityPathSelectionInfo();
             if (found)
             {
-                info.Set(AssetDatabase.GetAssetPath(obj.GetInstanceID()));
+//                info.Set(AssetDatabase.GetAssetPath(obj.GetInstanceID()));
+                info.Set(AssetDatabase.GetAssetPath(obj.GetEntityId()));
             }
         }
         string m_absolutePath;

@@ -11,7 +11,7 @@ namespace Eloi.Git
         public static string m_infoSave = "";
         public Info m_info = new Info();
         public GitInTheUnityProject m_gitInProject = new GitInTheUnityProject();
-        [SerializeField]
+        [System.Serializable]
         public class Info
         {
 

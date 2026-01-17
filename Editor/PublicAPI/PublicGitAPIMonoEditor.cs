@@ -10,7 +10,7 @@ namespace Eloi.Git
     {
 
         public Info m_info = new Info();
-        [SerializeField]
+        [System.Serializable]
         public class Info
         {
             public string m_userNameGitLab = "";
