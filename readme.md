@@ -2,7 +2,7 @@
 git submodule add https://github.com/EloiStree/2019_07_24_upm_quick_git_utility.git Packages/2019_07_24_upm_quick_git_utility
 ```
 
-# Open UPM: Quick Git Utility  
+# Quick Git Utility  
 
 This tool is a bit rough around the edges...  but I’ve been using it since I created it.
 I ashamed to share it as it’s not well-tested and the code is messy.  
