@@ -3,7 +3,7 @@
   "displayName": "\ud83e\uddf0,editor: Quick Git Utility",
   "version": "2025.1.16",
   "unity": "2018.1",
-  "description": "Tools to execute git instructions from command line.",
+  "description": "Tools to execute git instructions from command line on Window.",
   "keywords": [
     "Script",
     "Tool",
